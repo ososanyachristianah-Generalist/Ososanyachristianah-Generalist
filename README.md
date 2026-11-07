@@ -12,7 +12,7 @@ I'm a cybersecurity student documenting my learning through hands-on labs, pract
 - Web security: reconnaissance, content discovery, brute-force concepts, and SQL injection labs.
 - Security fundamentals: the CIA triad, social engineering, common attacks, risk management, and the security lifecycle.
 
-Featured project
+## Featured project
 
 
 ### [TinaLab SOC Alert Simulator](https://github.com/ososanyachristianah-Generalist/TinaLab-SOC-Alert-Simulator)
@@ -25,13 +25,13 @@ A Python command-line learning project that analyses simulated login logs and fl
 
 The project is an offline learning prototype. It does not ingest live logs or monitor real systems.
 
-Learning and practice
+## Learning and practice
 
 - **[TryHackMe](https://tryhackme.com/p/ososanyachristianah54)** — Completed practical rooms covering Linux privilege escalation, web security, networking, Nmap, and defensive security.
 - Hack The Box Academy: working through introductory learning modules.
 - Google Cybersecurity Certificate coursework: studied the foundations of cybersecurity, security risks, networks and network security, Linux and SQL, assets/threats/vulnerabilities, and detection and response.
 
-Tools and technologies
+## Tools and technologies
 
 Python · Linux · SQL · Git · GitHub · GitHub Actions · Nmap · Burp Suite · OWASP ZAP · Metasploit · Hydra
 
