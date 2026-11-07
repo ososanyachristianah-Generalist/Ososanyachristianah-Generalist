@@ -14,8 +14,8 @@ What I'm learning and practising
 
 Featured project
 
-"TinaLab SOC Alert Simulator" (https://github.com/ososanyachristianah-Generalist/TinaLab-SOC-Alert-Simulator)
 
+### [TinaLab SOC Alert Simulator](https://github.com/ososanyachristianah-Generalist/TinaLab-SOC-Alert-Simulator)
 A Python command-line learning project that analyses simulated login logs and flags repeated failed login attempts from a source IP within a rolling time window.
 
 - Uses a configurable threshold and time window.
@@ -27,21 +27,21 @@ The project is an offline learning prototype. It does not ingest live logs or mo
 
 Learning and practice
 
-- - "TryHackMe" (https://tryhackme.com/p/ososanyachristianah54): completed practical rooms covering Linux privilege escalation, web security, networking, Nmap, and defensive security.
+-  - **[TryHackMe](https://tryhackme.com/p/ososanyachristianah54)** — Completed practical rooms covering Linux privilege escalation, web security, networking, Nmap, and defensive security.
 - Hack The Box Academy: working through introductory learning modules.
 - Google Cybersecurity Certificate coursework: studied the foundations of cybersecurity, security risks, networks and network security, Linux and SQL, assets/threats/vulnerabilities, and detection and response.
 
 Tools and technologies
 
-"Python" · "Linux" · "SQL" · "Git" · "GitHub" · "GitHub Actions" · "Nmap" · "Burp Suite" · "OWASP ZAP" · "Metasploit" · "Hydra"
+Python · Linux · SQL · Git · GitHub · GitHub Actions · Nmap · Burp Suite · OWASP ZAP · Metasploit · Hydra
 
 I use these tools in guided labs and learning projects, and I'm continuing to build practical experience with them.
 
 Connect with me
 
-- "LinkedIn" (https://www.linkedin.com/in/ososanya-christianah-81a3562a4)
-- "TikTok" (https://www.tiktok.com/@ososanyachristianahayo) — documenting my cybersecurity learning journey
-- "YouTube" (https://youtube.com/@ososanyachristianahayo)
+- [LinkedIn](https://www.linkedin.com/in/ososanya-christianah-81a3562a4)
+- [TikTok](https://www.tiktok.com/@ososanyachristianahayo)
+- [YouTube](https://youtube.com/@ososanyachristianahayo)
 
 <!--
 **ososanyachristianah-Generalist/Ososanyachristianah-Generalist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
